@@ -20,10 +20,10 @@ Currently studying **Software Engineering** and always building something on the
 
 ### ☕ Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### 🌐 Frontend
@@ -32,12 +32,14 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
 </p>
 
 ### ⚙️ Low-Level
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly_x86/x64-%236E4C13.svg?style=flat" alt="Assembly" />
 </p>
 
 ### 🗄️ Databases
@@ -45,6 +47,7 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### 🚀 DevOps & Tooling
@@ -53,6 +56,13 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🧪 Testing & Quality
+<p>
+  <img src="https://img.shields.io/badge/JUnit_5-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat" alt="Mockito" />
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
 </p>
 
 </div>
