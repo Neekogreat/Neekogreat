@@ -48,6 +48,7 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark" />
 </p>
 
 ### 🚀 DevOps & Tooling
