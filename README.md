@@ -12,6 +12,10 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Backend+%7C+Docker+%2B+Kubernetes;Low-Level+%7C+C+%2F+C%2B%2B;Always+building+something." alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
+
 ---
 
 <div align="center">
