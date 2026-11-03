@@ -76,11 +76,9 @@ Currently studying **Software Engineering** and always building something on the
   <a href="https://www.linkedin.com/in/v%C3%ADctor-g%C3%B3mez-d%C3%ADaz-45421233b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="https://tu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23111827.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
-  
   <a href="mailto:tu@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
