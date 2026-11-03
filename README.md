@@ -85,7 +85,3 @@ Currently studying **Software Engineering** and always building something on the
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</div>
