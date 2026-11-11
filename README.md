@@ -31,7 +31,7 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/JavaScript_ES6+-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
 </p>
 
@@ -75,7 +75,7 @@ Currently studying **Software Engineering** and always building something on the
 
 <div align="center">
   <a href="https://www.linkedin.com/in/v%C3%ADctor-g%C3%B3mez-d%C3%ADaz-45421233b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8%2BPGNpcmNsZSBjeD0iNSIgY3k9IjQuNSIgcj0iMi4yIi8%2BPHBhdGggZD0iTTEwIDloMy44djEuOGMuNi0xLjEgMi0yLjEgNC4xLTIuMSAzLjkgMCA0LjYgMi41IDQuNiA1LjhWMjFoLTR2LTUuOGMwLTEuNCAwLTMuMi0yLTMuMnMtMi40IDEuNS0yLjQgMy4xVjIxSDEweiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://tu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23111827.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
