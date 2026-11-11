@@ -21,7 +21,7 @@ Currently studying **Software Engineering** and always building something on the
 ### ☕ Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-%23005571.svg?style=flat&logo=openapiinitiative&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
@@ -40,7 +40,7 @@ Currently studying **Software Engineering** and always building something on the
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Assembly_x86/x64-%236E4C13.svg?style=flat" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly_x86%2Fx64-%236E4C13.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSI2IiB5PSI2IiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHJ4PSIxIi8%2BPHJlY3QgeD0iOS41IiB5PSI5LjUiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTkgMnY0TTE1IDJ2NE05IDE4djRNMTUgMTh2NE0yIDloNE0yIDE1aDRNMTggOWg0TTE4IDE1aDQiLz48L3N2Zz4%3D" alt="Assembly" />
 </p>
 
 ### 🗄️ Databases
@@ -63,8 +63,8 @@ Currently studying **Software Engineering** and always building something on the
 ### 🧪 Testing & Quality
 <p>
   <img src="https://img.shields.io/badge/JUnit_5-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat" alt="Mockito" />
-  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Mockito-%2378C743.svg?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2bC03IDl2Nmg0djJIN3YtMmg0di02eiIvPjxwYXRoIGQ9Ik0xNSAybDMgNSIvPjwvc3ZnPg%3D%3D" alt="Mockito" />
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqubeserver&logoColor=white" alt="SonarQube" />
 </p>
 
 </div>
